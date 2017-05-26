@@ -11,15 +11,9 @@ Measuring levels of similarity of their transcriptomic signature of distinct cel
 Requirements:
   - made4 package 
 
-  - expression data, ideally filtered based on eprsonal criteria. a Heatmap based on whole transcriptome is long to process, hard to read, and difficult to draw conclusions from 
+  - expression data, ideally filtered based on personal criteria. a Heatmap based on whole transcriptome is long to process, hard to read, and difficult to draw conclusions from 
 
   
-
-
-
-
-
-Use the -h flag for further options and help
 
 
 
